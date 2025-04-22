@@ -1,1 +1,1 @@
-# LecoSktrs
+# DataScience Project
